@@ -1,4 +1,0 @@
-# Study
-Study
-test
-test
